@@ -1,0 +1,10 @@
+version_api = 5.131
+
+access_token_group = 'vk1.a.knQXG9zd52mpYOppkpDnVEU8K_XSGTPhOmjBAP2ELPofbZA2t67bY8cYqOp22hFcpadrDjOB1VcoAOh9lHFIIVJ5Wq71GZtPHSUz8YD_pjxBA6E3huGyj7dT0veP03zLFfD_HJAfaIX0-XfNgo9cgCPKbFc84gvds0IFI0g7OwHR-MZ_tU1jMgSp5Cv0B7-QAVOcniXpdoq3h0vp09AQAQ'
+group_id = 219475174
+
+vk_access_token = 'vk1.a.fr79_Rj4Z0A-tEa7UxK3VQWFSCVwDi8xvpxiopH9lIZhAtlbQLJ40V8E_KW4XktrFX3QV-T6rdqReDQ8jOYq2oRQBGmMXsABxPMOvMTzYdAs-Q0GRVKJ9SBGcNUBJTpqofgHhQZfJJpDGnO74kKSqouQGBVWQ_bzEL3tDKgoa1IwemaW6Se2aF86WDcwpPKDEUV-Rw-xylWZAE7VgtbJCQ'
+vk_id_app = '51586440'
+bd_user = 'postgres'
+bd_password = '12v34d'
+bd_database = 'vkinder'
